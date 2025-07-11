@@ -1,0 +1,111 @@
+{
+    # Age  (required)
+    #   Option: any text
+    "entry.279914237": "",
+    # ID (required)
+    #   Option: any text
+    "entry.1170788130": "",
+    # Sex (required)
+    #   Options: ['Male', 'Female']
+    "entry.817048268": "",
+    # Marital Status: (required)
+    #   Options: ['Married', 'Widowed', 'Divorced/Separated', 'Single']
+    "entry.1636771902": "",
+    # Ethnicity  (required)
+    #   Options: ['ANY TEXT!!', 'Hausa', 'Yoruba', 'Igbo']
+    "entry.613220278": "",
+    # Education level  (required)
+    #   Options: ['No formal education', 'Primary', 'Secondary', 'Tertiary']
+    "entry.1351847914": "",
+    # Occupation  (required)
+    #   Options: ['Unemployed', 'Farmer', 'Trader/Business', 'Civil Servant', 'ANY TEXT!!']
+    "entry.437572206": "",
+    # Ward (select the ward you reside in):  (required)
+    #   Options: ['Ajaawa', 'Iresi', 'Ilora', 'Olorunda', 'Omoboriowo', 'Oke-Ogbo', 'Aka', 'Iragbiji', 'ANY TEXT!!']
+    "entry.561578224": "",
+    # Have you ever being diagnosed with any of the following(multiple choices) (required)
+    #   Options: ['Diabetes', 'Kidney disease', 'Obesity', 'Coronary heart disease', 'None']
+    "entry.1230467456": "",
+    # Have you ever being diagnosed with hypertension(High blood pressure)? (required)
+    #   Options: ['Yes', 'No', 'Not sure']
+    "entry.642871565": "",
+    # Are you currently taking any medication for hypertension? (required)
+    #   Options: ['Yes', 'No']
+    "entry.107324300": "",
+    # When was the last time you had your blood pressure checked? (required)
+    #   Options: ['Less than 6 months', '6–12 months ago', 'Over 1 year ago', 'Never']
+    "entry.1063940088": "",
+    # What is the recommended daily limit of salt intake for adults? (required)
+    #   Options: ['Less than 1 teaspoon (5g) per day', 'More than 2 teaspoons (10g) per day (', "Don't know"]
+    "entry.1964941990": "",
+    # Which of the following health conditions are associated with high salt intake? (Select all that apply): (required)
+    #   Options: ['Hypertension (High blood pressure)', 'Stroke', 'Heart disease', 'Kidney disease', 'None of the above', "Don't know"]
+    "entry.1559166723": "",
+    # Which of the following foods are high in salt? (Select all that apply): (required)
+    #   Options: ['Processed meats (e.g., sausages, bacon)', 'Canned soups and sauces', 'Bread and baked goods', 'Fresh fruits and vegetables']
+    "entry.164879328": "",
+    # Do you think reducing salt intake can lower the risk of hypertension? (required)
+    #   Options: ['Yes', 'No', "I don't know"]
+    "entry.275698267": "",
+    # How often do you add salt to your food during cooking? (required)
+    #   Options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+    "entry.155659930": "",
+    # How often do you consume processed or packaged foods (e.g., canned foods, snacks, instant noodles)?: (required)
+    #   Options: ['Daily', '3-4 times a week', '1-2 times a week', 'Rarely', 'Never']
+    "entry.1889485344": "",
+    # Do you check food labels for salt (sodium) content before buying packaged foods?: (required)
+    #   Options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+    "entry.2095272921": "",
+    # Do you use salt substitutes (e.g., low-sodium salt)?:  (required)
+    #   Options: ['Yes', 'No', "Don't know what it is"]
+    "entry.1682387336": "",
+    # How important do you think it is to reduce salt intake for good health?: (required)
+    #   Options: ['Very important', 'Somewhat important', 'Not important', "Don't know"]
+    "entry.1614334911": "",
+    # Do you believe you consume too much salt?: (required)
+    #   Options: ['Yes', 'No', 'Not sure']
+    "entry.963672502": "",
+    # Would you be willing to reduce your salt intake if advised by a health professional?: (required)
+    #   Options: ['Yes', 'No', 'Not sure']
+    "entry.1650080281": "",
+    # What barriers do you face in reducing your salt intake? (Select all that apply) (required)
+    #   Options: ['Lack of knowledge about low-salt alternatives', 'Preference for salty foods', 'High cost of low-sodium products', 'Family or cultural preferences', 'None', 'ANY TEXT!!']
+    "entry.188663812": "",
+    # Do you engage in regular physical activity? (required)
+    #   Options: ['Yes', 'No']
+    "entry.1499536321": "",
+    # Do you smoke or use tobacco products? (required)
+    #   Options: ['Never', 'Former smoker', 'Current smoker']
+    "entry.480672891": "",
+    # Do you consume Alcohol? (required)
+    #   Options: ['Never', 'Formerly do', 'Currently do']
+    "entry.326783893": "",
+    # Do you have a family history of hypertension? (required)
+    #   Options: ['Yes', 'No', 'Not sure']
+    "entry.1567036380": "",
+    # Height (in meters):
+(Measured using a stadiometer) (required)
+    #   Option: any text
+    "entry.203009619": "",
+    # Weight (in kilograms): 
+(Measured using a calibrated scale) (required)
+    #   Option: any text
+    "entry.1902473261": "",
+    # Body Mass Index (BMI) :
+(Calculated as weight in kg / height in m2) (required)
+    #   Option: any text
+    "entry.835606982": "",
+    # Waist Circumference (in centimeters): 
+(Measured at the midpoint between the lower rib and the iliac crest) (required)
+    #   Option: any text
+    "entry.97022763": "",
+    # Systolic Blood Pressure (mmHg): (required)
+    #   Option: any text
+    "entry.1399974781": "",
+    # Diastolic Blood Pressure (mmHg): (required)
+    #   Option: any text
+    "entry.1852434929": "",
+    # Hypertension Status (Based on measurement and medication use): (required)
+    #   Options: ['Non- hypertensive', 'Hypertensive (≥140/90 mmHg or on medication)']
+    "entry.1217212537": ""
+}
