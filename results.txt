@@ -9,10 +9,10 @@
     #   Options: ['Male', 'Female']
     "entry.817048268": "",
     # Marital Status: (required)
-    #   Options: ['Married', 'Widowed', 'Divorced/Separated', 'Single']
+    #   Options: ['Married', 'Single', 'Widowed', 'Divorced/Separated']
     "entry.1636771902": "",
     # Ethnicity  (required)
-    #   Options: ['ANY TEXT!!', 'Hausa', 'Yoruba', 'Igbo']
+    #   Options: ['ANY TEXT!!', 'Hausa', 'Igbo', 'Yoruba']
     "entry.613220278": "",
     # Education level  (required)
     #   Options: ['No formal education', 'Primary', 'Secondary', 'Tertiary']

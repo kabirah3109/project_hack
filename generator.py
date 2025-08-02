@@ -21,6 +21,7 @@ def generate_form_request_dict(entries, with_comment: bool = True):
         default_value = json.dumps(default_value, ensure_ascii=False)
             
         if entry.get("type") == "required":
+    
             result += f'    "{entry["id"]}": {default_value}'
         else:
             result += f'    "entry.{entry["id"]}": {default_value}'
